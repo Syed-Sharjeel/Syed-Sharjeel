@@ -1,36 +1,37 @@
-# 👋 Hi, I'm Hafiz Syed Sharjeel Najam  
-💡 *Undergrad Electrical Engineer | Python, ML & AI Enthusiast*  
+# Hi, I'm Hafiz Syed Sharjeel Najam  
+*Undergrad Electrical Engineer | Python, ML & AI Enthusiast*  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I'm an Electrical Engineering student at **NED University** with a growing specialization in **power systems** and **circuit design**, complemented by hands-on experience in **Machine Learning** and **Generative AI**.  
 
-💻 Skilled in tools like **MATLAB**, **Tinkercad**, and **Python**, with project experience in:  
-- ⚡ Three-phase power analysis  
-- 🤖 ElectroVerse | AI-powered study assistant for *Fundamentals of Electric Circuits*
+Skilled in tools like **MATLAB**, **Tinkercad**, and **Python**, with project experience in:  
+- Three-phase power analysis  
+- ElectroVerse | AI-powered study assistant for *Fundamentals of Electric Circuits*
 - Fraud Financial Transaction Detection using Machine Learning
 
-📜 Certified in **Deep Learning** and **Google’s GenAI Capstone**, blending traditional engineering principles with modern intelligent systems.
+Certified in **Deep Learning** and **Google’s GenAI Capstone**, blending traditional engineering principles with modern intelligent systems.
 
 ---
 
-## 🎓 Education  
+## Education  
 - **B.E. Electrical Engineering** — NED University of Engineering & Technology *(In progress)*  
 
 ---
 
-## 📜 Certifications  
-1. 🎓 *Machine Learning Specialization* — Stanford University & DeepLearning.AI  
-2. 🤖 *Intro to Deep Learning* — Kaggle  
-3. 📊 *Certified Data Scientist* — NED Academy  
-4. ⚡ *Electric Power Systems* — University at Buffalo  
-5. 🌐 *5 Days Generative AI Intensive* — Google & Kaggle  
-6. 🧠 *Intro & Intermediate Machine Learning* — Kaggle  
-7. 🐍 *Python* — Kaggle  
+## Certifications  
+1. *Machine Learning Specialization* — Stanford University & DeepLearning.AI
+2. *Generative AI Application Developer* — Pak Angels, iCodeGuru, and ASPIRE Pakistan
+3. *Intro to Deep Learning* — Kaggle  
+4. *Certified Data Scientist* — NED Academy  
+5. *Electric Power Systems* — University at Buffalo  
+6. *5 Days Generative AI Intensive* — Google & Kaggle  
+7. *Intro & Intermediate Machine Learning* — Kaggle  
+8. *Python* — Kaggle  
 
 ---
-## 🛠 Tech Stack  
+## Tech Stack  
 
 **Electrical Engineering:**  
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks)  ![Simulink](https://img.shields.io/badge/Simulink-orange?style=for-the-badge&logo=mathworks)  ![Tinkercad](https://img.shields.io/badge/Tinkercad-ff6f00?style=for-the-badge&logo=autodesk)  ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD%20Electrical-d40000?style=for-the-badge&logo=autodesk)  
@@ -42,11 +43,11 @@ I'm an Electrical Engineering student at **NED University** with a growing speci
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 ---
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![Sharjeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Sharjeel&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Sharjeel&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL@example.com)  
