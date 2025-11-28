@@ -1,6 +1,8 @@
 # Hi, I'm Hafiz Syed Sharjeel Najam  
 *Undergrad Electrical Engineer | Python, ML & AI Enthusiast*  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=syed-sharjeel&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## About Me  
